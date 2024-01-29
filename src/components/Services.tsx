@@ -28,7 +28,7 @@ const Services = () => {
             className="w-full flex flex-col rounded-[40px] relative shadow-md shadow-[#aa107f] group overflow-hidden bg-cover object-cover bg-center h-96"
           >
             <div className="absolute -bottom-full w-full bg-[#aa107f] group-hover:bottom-0 duration-500 delay-150 p-4">
-              <p className="text-xl font-bold">Web Design</p>
+              <p className="text-xl font-bold">Web Development</p>
               <p className="text-sm">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Accusantium animi voluptatem quod expedita fugiat hic magni sed
@@ -42,7 +42,7 @@ const Services = () => {
             className="w-full flex flex-col rounded-[40px] relative shadow-md shadow-[#0087b4] group overflow-hidden bg-cover object-cover bg-center h-96"
           >
             <div className="absolute -bottom-full w-full bg-[#0087b4] group-hover:bottom-0 duration-500 delay-150 p-4">
-              <p className="text-xl font-bold">Web Design</p>
+              <p className="text-xl font-bold">Web Security</p>
               <p className="text-sm">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Accusantium animi voluptatem quod expedita fugiat hic magni sed
@@ -56,7 +56,7 @@ const Services = () => {
             className="w-full flex flex-col rounded-[40px] relative shadow-md shadow-[#d7e2eb] group overflow-hidden bg-cover object-cover bg-center h-96"
           >
             <div className="text-black absolute -bottom-full w-full bg-[#d7e2eb] group-hover:bottom-0 duration-500 delay-150 p-4">
-              <p className="text-xl font-bold">Web Design</p>
+              <p className="text-xl font-bold">Dev Ops</p>
               <p className="text-sm">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Accusantium animi voluptatem quod expedita fugiat hic magni sed
